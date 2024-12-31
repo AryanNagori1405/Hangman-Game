@@ -1,7 +1,7 @@
 import random
 from wsgiref.util import guess_scheme
 
-words = ['python', 'java', 'flask', 'django', 'javascript', 'cpp', 'swift', 'ruby', 'artificial intelligence', 'machine learning']
+words = ['python', 'java', 'flask', 'django', 'javascript', 'cpp', 'swift', 'ruby']
 
 chosen_word = random.choice(words)  # Randomly choose a word from the list
 word_display = ['_' for i in chosen_word]
