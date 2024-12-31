@@ -8,7 +8,7 @@ guess_scheme is imported from wsgiref.util, but it is not used in the code, so t
 
 List of Words:
 
-words = ['python', 'java', 'flask', 'django', 'javascript', 'cpp', 'swift', 'ruby', 'artificial intelligence', 'machine learning']
+words = ['python', 'java', 'flask', 'django', 'javascript', 'cpp', 'swift', 'ruby']
 A list of words that the game can choose from.
 
 Choosing a Word:
